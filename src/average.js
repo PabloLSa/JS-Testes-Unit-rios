@@ -27,6 +27,6 @@ const average = (numeros) => {
   }
 
   return Math.round(soma / numeros.length);
-}
+};
 
 module.exports = average;
